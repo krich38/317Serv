@@ -1,0 +1,23 @@
+[00:00:00] Loaded 21 packet handlers.
+[00:00:00] Loaded EventModule PacketProcessing[20,20]
+[00:00:00] Loaded EventModule ScheduledUpdate[600,600]
+[00:00:00] Loaded EventModule UpdateInterface[1,10000]
+[00:00:00] Building listener... Listener built, binding on 43594
+[00:00:01] yamlol is signing onto the server...
+[00:00:06] yamlol disconnected.
+[00:00:08] yamlol is signing onto the server...
+[00:00:13] yamlol disconnected.
+[00:00:16] yamlol is signing onto the server...
+[00:00:21] yamlol disconnected.
+[00:00:30] yz85rac is signing onto the server...
+[00:00:30] done.
+[00:00:42] Unhandled packet: PACKET 78: length=0]
+[00:00:46] justin is signing onto the server...
+[00:00:46] done.
+[00:01:05] Unhandled packet: PACKET 78: length=0]
+[00:01:12] Unhandled packet: PACKET 78: length=0]
+[00:01:14] Unhandled packet: PACKET 132: length=6, data=[35C8A5DDB]
+[00:01:14] Unhandled packet: PACKET 132: length=6, data=[35C8A5DDB]
+[00:01:14] Unhandled packet: PACKET 132: length=6, data=[35C8A5DDB]
+[00:01:15] Unhandled packet: PACKET 132: length=6, data=[35C8A5DDB]
+[00:01:17] yz85rac disconnected.
